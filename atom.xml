@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pwxiao.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-05-04T01:49:11.741Z</updated>
+    <title>Zoom</title>
+    <updated>2021-05-04T01:52:31.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pwxiao.github.io"/>
     <link rel="self" href="https://pwxiao.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>自己选择的路，跪着也要走完。</subtitle>
     <logo>https://pwxiao.github.io/images/avatar.png</logo>
     <icon>https://pwxiao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Zoom</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://pwxiao.github.io/post/hello-gridea/</id>
