@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pwxiao.github.io</id>
     <title>Zoom</title>
-    <updated>2021-05-04T03:39:20.087Z</updated>
+    <updated>2021-05-04T03:43:09.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pwxiao.github.io"/>
     <link rel="self" href="https://pwxiao.github.io/atom.xml"/>
@@ -71,6 +71,8 @@
 <p>学习，足球以及写代码</p>
 <h2 id="最近在">⏰ 最近在。。</h2>
 <p>学习，学python，学彩虹过人</p>
+<h2 id="追星">👀追星？</h2>
+<p>👉WJMZBMR</p>
 <h2 id="项目or成就">💻 项目or成就</h2>
 <p>《学吧》-多功能学习助手<br>
 《口哨》-工具箱</p>
