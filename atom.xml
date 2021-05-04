@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pwxiao.github.io</id>
     <title>Zoom</title>
-    <updated>2021-05-04T03:19:08.557Z</updated>
+    <updated>2021-05-04T03:27:35.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pwxiao.github.io"/>
     <link rel="self" href="https://pwxiao.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://pwxiao.github.io/images/avatar.png</logo>
     <icon>https://pwxiao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Zoom</rights>
+    <entry>
+        <title type="html"><![CDATA[一些有趣的网站]]></title>
+        <id>https://pwxiao.github.io/post/yi-xie-you-qu-de-wang-zhan/</id>
+        <link href="https://pwxiao.github.io/post/yi-xie-you-qu-de-wang-zhan/">
+        </link>
+        <updated>2021-05-04T03:19:27.000Z</updated>
+        <content type="html"><![CDATA[<p>IOI官方网站：https://ioinformatics.org/<br>
+国际信息学奥林匹克竞赛官网</p>
+<p>http://oeis.org/<br>
+数列检索网站，可以找到各种数列，并给出其生成函数，代码实现以及通项公式</p>
+<p>http://playground.tensorflow.org/<br>
+谷歌出品的神经网络试验场，可以在线训练模型，当然仅仅是实验而已</p>
+<p>https://magi.com<br>
+一个人工智能搜索引擎，无时无刻不在学习</p>
+<p>https://www.uedbox.com/post/54776/<br>
+提供谷歌镜像服务</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOI2020_contest_supertrees]]></title>
         <id>https://pwxiao.github.io/post/ioi2020_contest_supertrees/</id>
